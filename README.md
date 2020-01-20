@@ -21,7 +21,7 @@ Mozilla website: https://abdullahkhan91.github.io/mozilla-website/
 ## Assignment 5 (web/visualization)
 https://github.com/abdullahkhan91/chart-examples
 
-## Assignment 6 (data)
+## Assignment 6 (data) (all pair coding for Ryuichiro and Abdullah in the link) 
 https://github.com/abdullahkhan91/python-playground
 
 # Homework Assignments
