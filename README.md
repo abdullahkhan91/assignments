@@ -10,10 +10,12 @@ https://github.com/abdullahkhan91/assignments
 https://github.com/abdullahkhan91/universe
 
 ## Assignment 4 (web/front-end-stack)
-Simple website repo: https://github.com/abdullahkhan91/abdullah-simple-website
+Simple website repo: https://github.com/abdullahkhan91/abdullah-simple-website  
+
 Simple website link: https://abdullahkhan91.github.io/abdullah-simple-website/index.html
 
-Mozilla website repo: https://github.com/abdullahkhan91/mozilla-website
+Mozilla website repo: https://github.com/abdullahkhan91/mozilla-website  
+
 Mozilla website: https://abdullahkhan91.github.io/mozilla-website/
 
 ## Assignment 5 (web/visualization)
