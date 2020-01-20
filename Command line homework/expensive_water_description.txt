@@ -1,0 +1,5 @@
+*Description of Section 1 Homework from Day 1, DPI 691MA*
+
+The loop in the python script searches through the csv file and notes down all rows in which the purpose of the expense is WATER and the amount is greater than 1000. Before the loop is executed, the script also notes down the header of the csv file as it contains relevant information but would be ignored by the loop. 
+
+The csvstat command--for which the output is redirected into a text file--goes through these filtered rows and identifies the type of content contained in each column, i.e. text, date, or numeric. In case of the latter, csvstat creates basic summary statistics for each column, such as measures of central tendency and dispersion, and the smallest and largest values. For columns containing text, csvstat provides the mode as well as the value of the longest entry.
